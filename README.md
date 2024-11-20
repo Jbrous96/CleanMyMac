@@ -20,7 +20,7 @@ Preserves original filenames
 Error handling for each file operation
 
 # How to use
-Save as screenshot_organizer.py
+Save as screenshot_organizer.py.
 Run with python screenshot_organizer.py
 Choose your desired action from the menu
 
